@@ -46,8 +46,6 @@
 </head>
 <body>
 	<div class = "container">
-		<div class = "modal">
-		</div>
 	</div>
 </body>
 </html>
